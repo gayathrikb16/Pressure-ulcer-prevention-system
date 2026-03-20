@@ -36,7 +36,7 @@ This project presents a real-time embedded system designed to monitor pressure d
 | FSR 3           | GPIO 34  |
 | FSR 4           | GPIO 35  |
 | FSR 5           | GPIO 36  |
-| Solenoid Control| GPIO XX  |
+| Solenoid Control| GPIO 23  |
 
 ## Technologies Used
 - Arduino IDE  
